@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple website project for showing how to use Git and Guthub together.
+This is a simple website project for showing how to use Git and Guthub together. And add more changes.
 
 ## Purpose
 Blah blah blah
